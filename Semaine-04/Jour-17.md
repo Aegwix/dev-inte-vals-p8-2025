@@ -11,7 +11,7 @@
 
 ### Brief
 
-- [ ] Commencer à travailler sur les wireframes du brief CV
-  - [ ] Pages mobiles
-  - [ ] Pages tablettes
-  - [ ] Pages Desktop
+- [x] Commencer à travailler sur les wireframes du brief CV
+  - [x] Pages mobiles
+  - [x] Pages tablettes
+  - [x] Pages Desktop
